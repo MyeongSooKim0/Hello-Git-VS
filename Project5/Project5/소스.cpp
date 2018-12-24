@@ -6,7 +6,7 @@ int main(void) {
 	cout << str << endl;
 	int i = 2;
 	for (i = 1; i < 5; i++) {
-		cout << i << "번    째" << str << " " << endl;
+		cout << i << "번 째" << str << " " << endl;
 	}
 	return 0;
 }
