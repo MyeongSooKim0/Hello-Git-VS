@@ -4,7 +4,7 @@ using namespace std;
 int main(void) {
 	char str[] = "Hello Git";
 	cout << str << endl;
-	int i = 0;
+	int i = 2;
 	for (i = 1; i < 5; i++) {
 		cout << i << "¹ø Â°" << str << " " << endl;
 	}
