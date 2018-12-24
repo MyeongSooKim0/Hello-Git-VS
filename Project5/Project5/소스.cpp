@@ -6,7 +6,7 @@ int main(void) {
 	cout << str << endl;
 	
 	for (int i = 1; i < 5; i++) {
-		cout << i << "¹ø Â°" << str << " " << endl;
+		cout << i << str << " " << endl;
 	}
 	return 0;
 }
